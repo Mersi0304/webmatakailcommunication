@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>YT_Ikon</name>
+   <tag></tag>
+   <elementGuidId>11786e65-9d7e-4784-ba28-d3c4221c9f4c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fab.fa-youtube</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/footer/div/div/div/div/div[3]/div/a[4]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f4f0014f-6fff-41cd-b9a9-18d115bd4c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fab fa-youtube</value>
+      <webElementGuid>61fdb8fb-a4dd-4929-9c99-69825485cc7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/footer[@class=&quot;footer-half sub-bg section-padding pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5&quot;]/div[@class=&quot;cont&quot;]/div[@class=&quot;social-icon&quot;]/div[@class=&quot;social&quot;]/a[@class=&quot;icon&quot;]/i[@class=&quot;fab fa-youtube&quot;]</value>
+      <webElementGuid>258c5d81-0286-4ff5-9d1c-581c3d0a33c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/footer/div/div/div/div/div[3]/div/a[4]/i</value>
+      <webElementGuid>930d90fd-1196-4633-99ab-fddfed86b6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/i</value>
+      <webElementGuid>340cbaff-6dbb-4879-bc5a-99ed09c4f285</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
