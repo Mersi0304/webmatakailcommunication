@@ -21,9 +21,19 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://matakailcommunication.com/')
 
-WebUI.click(findTestObject('About/Page_Home - Matakail Communication/About_fit'))
+WebUI.click(findTestObject('Object Repository/Home/Page_Home - Matakail Communication/geser_kanan'))
 
-WebUI.switchToWindowTitle('About - Matakail Communication')
+WebUI.click(findTestObject('Object Repository/Home/Page_Home - Matakail Communication/geser_kanan'))
 
-WebUI.click(findTestObject('About/Page_About - Matakail Communication/Download_Compro_Btn'))
+WebUI.click(findTestObject('Object Repository/Home/Page_Home - Matakail Communication/geser_kiri'))
+
+WebUI.click(findTestObject('Object Repository/Home/Page_Home - Matakail Communication/geser_kiri'))
+
+WebUI.click(findTestObject('Object Repository/Home/Page_Home - Matakail Communication/geser_kiri'))
+
+WebUI.click(findTestObject('Object Repository/Home/Page_Home - Matakail Communication/geser_kiri'))
+
+WebUI.verifyElementVisible(findTestObject('Home/Page_Home - Matakail Communication/geser_kiri'))
+
+WebUI.takeScreenshot()
 

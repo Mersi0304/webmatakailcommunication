@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wa</name>
+   <tag></tag>
+   <elementGuidId>71afe771-0bd7-46bb-a1b4-062c792b7bdf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>section.call-action.section-padding.bg-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/section[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>bf72a45a-d2f1-48f6-a647-030c6feb6548</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>call-action section-padding  bg-img</value>
+      <webElementGuid>02942a5e-6c13-4d67-a77e-f024b678bf2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Let's Talkabout your next project.Get In Touch</value>
+      <webElementGuid>3d5c6271-26e3-4840-95dd-12ad45dce98b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-content&quot;]/section[@class=&quot;call-action section-padding  bg-img&quot;]</value>
+      <webElementGuid>3f748fbb-582a-4341-93a2-4f56524c8624</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/section[4]</value>
+      <webElementGuid>066165bb-1bcc-49ad-a89c-4c8a6a0a4071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[3]/following::section[1]</value>
+      <webElementGuid>5558de28-8abc-4221-aa1d-265b7be74509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[3]/following::section[1]</value>
+      <webElementGuid>7169b0e2-1969-4110-88ab-006eafd9253c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]</value>
+      <webElementGuid>4c67e405-db40-4889-9076-901b18052e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = concat(&quot;Let&quot; , &quot;'&quot; , &quot;s Talkabout your next project.Get In Touch&quot;) or . = concat(&quot;Let&quot; , &quot;'&quot; , &quot;s Talkabout your next project.Get In Touch&quot;))]</value>
+      <webElementGuid>8bfe3cdf-4867-4452-9496-9fbaf06dcbc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

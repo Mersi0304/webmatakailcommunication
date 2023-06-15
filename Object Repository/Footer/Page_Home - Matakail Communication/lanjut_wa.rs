@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lanjut_wa</name>
+   <tag></tag>
+   <elementGuidId>57fc8af9-7dd1-4bcb-85aa-9368313f1191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.con-info > ul > li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/footer/div/div/div/div/div[2]/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>78b286a1-c873-4ebc-9865-86b70b623e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://api.whatsapp.com/send?phone=628116141078&amp;text=Halo%20Matakail%20Communication</value>
+      <webElementGuid>36e8764d-9ff8-4384-a9d3-fe866a7cb310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+62 811 6141 078</value>
+      <webElementGuid>83b8ea07-39c6-4e74-9e26-002925f01133</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-content&quot;]/footer[@class=&quot;footer-half sub-bg section-padding pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5&quot;]/div[@class=&quot;cont&quot;]/div[@class=&quot;con-info&quot;]/ul[1]/li[4]/a[1]</value>
+      <webElementGuid>85516c1a-1bdc-415d-b4b5-be2624a198eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/footer/div/div/div/div/div[2]/ul/li[4]/a</value>
+      <webElementGuid>7bed53c3-7c87-4051-b0c9-fc08ded7f543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'+62 811 6141 078')]</value>
+      <webElementGuid>45b5978c-d151-4f0c-ad83-1e51d54b4c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[4]/following::a[1]</value>
+      <webElementGuid>bc86182b-714b-4c7a-9064-8c53bcd7f6aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::a[1]</value>
+      <webElementGuid>172efa10-1f58-4ed9-9d44-205a5cc2dbb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow Us'])[1]/preceding::a[1]</value>
+      <webElementGuid>1dcb62b2-0dec-4665-b54e-c9dedf40110d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Companies'])[1]/preceding::a[5]</value>
+      <webElementGuid>dcba6966-e822-4a81-8606-459dfef94f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+62 811 6141 078']/parent::*</value>
+      <webElementGuid>471d6d03-c219-4be8-8cbd-1b97bc42c5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://api.whatsapp.com/send?phone=628116141078&amp;text=Halo%20Matakail%20Communication')]</value>
+      <webElementGuid>6387b9af-70de-488b-a184-800cba7c93bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a</value>
+      <webElementGuid>4bd9c060-f39c-44ac-8b7e-d5990ef52a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://api.whatsapp.com/send?phone=628116141078&amp;text=Halo%20Matakail%20Communication' and (text() = '+62 811 6141 078' or . = '+62 811 6141 078')]</value>
+      <webElementGuid>485585b9-865f-40a8-b2f6-0d3757c5be5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

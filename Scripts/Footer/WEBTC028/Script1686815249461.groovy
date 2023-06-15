@@ -21,9 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://matakailcommunication.com/')
 
-WebUI.click(findTestObject('About/Page_Home - Matakail Communication/About_fit'))
+WebUI.click(findTestObject('Object Repository/Footer/Page_Home - Matakail Communication/lokasi_kantor'))
 
-WebUI.switchToWindowTitle('About - Matakail Communication')
-
-WebUI.click(findTestObject('About/Page_About - Matakail Communication/Download_Compro_Btn'))
+WebUI.takeScreenshot()
 

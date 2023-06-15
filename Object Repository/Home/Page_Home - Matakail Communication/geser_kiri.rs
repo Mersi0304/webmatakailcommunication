@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>geser_kiri</name>
+   <tag></tag>
+   <elementGuidId>c5bb9884-85db-4b53-8b41-c829d1454bed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-chevron-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div/div[2]/div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a490e0c9-aa3b-4b74-a0ff-6fd6ddcd3121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-chevron-left</value>
+      <webElementGuid>08defc0a-92f4-4f91-b7a7-e021ec82e951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[@class=&quot;slider slider-prlx fixed-slider text-center&quot;]/div[@class=&quot;swiper-container parallax-slider&quot;]/div[@class=&quot;setone setwo&quot;]/div[@class=&quot;swiper-button-prev swiper-nav-ctrl prev-ctrl cursor-pointer&quot;]/i[@class=&quot;fas fa-chevron-left&quot;]</value>
+      <webElementGuid>cbadcfc4-7b0b-4560-b35d-0f319ff4713b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div/div[2]/div[2]/i</value>
+      <webElementGuid>2dd022e9-47be-4276-8d28-7119bf6efcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>72132f86-b50d-4691-80cf-cfe20e5d5dd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

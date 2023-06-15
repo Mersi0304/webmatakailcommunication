@@ -31,5 +31,7 @@ WebUI.setText(findTestObject('Object Repository/Contact/Page_Contact - Matakail 
 
 WebUI.click(findTestObject('Object Repository/Contact/Page_Contact - Matakail Communication/send message_button'))
 
+WebUI.verifyElementText(findTestObject('Contact/Page_Contact - Matakail Communication/input_email'), '')
+
 WebUI.takeScreenshot()
 
