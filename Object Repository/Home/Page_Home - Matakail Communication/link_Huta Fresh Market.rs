@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_Huta Fresh Market</name>
+   <tag></tag>
+   <elementGuidId>a9a1f2c3-321c-4f22-92f0-23d33ee4e728</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a.fw-200</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/footer/div/div/div[2]/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>df1df547-0ab0-4c63-8e50-e6632e1cfd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://hutafreshmarket.id</value>
+      <webElementGuid>ef87ec73-9d99-4cb7-9a34-febd0550ac17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>14d3633d-18e4-4a16-b63c-7cb5dc291b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noreferrer noopener</value>
+      <webElementGuid>fae6baaf-ab05-46c5-99a8-5406e893ccfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fw-200</value>
+      <webElementGuid>f30982d6-bcfc-4400-b993-d0271508dfb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Huta Fresh Market</value>
+      <webElementGuid>47972129-2dc7-4914-a765-02cc45d6eae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-content&quot;]/footer[@class=&quot;footer-half sub-bg section-padding pb-0&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 offset-lg-2&quot;]/div[@class=&quot;other-companies&quot;]/ul[1]/li[2]/a[@class=&quot;fw-200&quot;]</value>
+      <webElementGuid>cc23759a-ae69-49f2-bd0b-e34be06eaf10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/footer/div/div/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>7cae4e0f-220c-4d70-885b-94834d70f569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Huta Fresh Market')]</value>
+      <webElementGuid>6b5f9385-d24f-4976-a171-efc61a04312f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bold and Underline Communication'])[1]/following::a[1]</value>
+      <webElementGuid>558b22ac-81ab-466c-9678-86e9ceae5020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other Companies'])[1]/following::a[2]</value>
+      <webElementGuid>2832c74f-4bbd-4c67-9183-b0c6a7992473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kefi Cafe and Space'])[1]/preceding::a[1]</value>
+      <webElementGuid>fadb7013-f146-410d-b1a8-86942df95057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Huta Fresh Market']/parent::*</value>
+      <webElementGuid>a75a903e-e9f8-47a2-88b4-a85e6ed0aa8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://hutafreshmarket.id')]</value>
+      <webElementGuid>d3a391ff-fd0c-4e1e-9702-6e6d7dc3f399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>503b4326-5cc1-47c1-83fc-63d16a09135f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://hutafreshmarket.id' and (text() = 'Huta Fresh Market' or . = 'Huta Fresh Market')]</value>
+      <webElementGuid>1ad62cc3-51fa-4739-988f-23ce83f1f65b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
